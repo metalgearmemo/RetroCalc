@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "16b9f9bbd828e70d42599dff7ddc006d"
+build_time: [538779232, 130714000]
+inputs:
+  "/Users/memo/Desktop/RetroCalc/RetroCalc/ViewController.swift": [538779228, 0]
+  "/Users/memo/Desktop/RetroCalc/RetroCalc/AppDelegate.swift": [538779228, 0]
